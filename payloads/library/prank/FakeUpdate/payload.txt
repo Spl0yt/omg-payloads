@@ -1,0 +1,10 @@
+REM Made by Sployt. I do not take any reponsibility for what do you do with it.
+
+DUCKY_LANG DE_CH
+GUI r
+DELAY 500
+STRING iexplore fakeupdate.net/win10ue/
+DELAY 450
+ENTER
+DELAY 1250
+F11
